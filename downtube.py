@@ -4,8 +4,6 @@ import time
 import os
 from tkinter import filedialog
 
-test = "test"
-
 def vid():
     VideoType.config(text="Type de fichier: Vidéo")
     StatusLabel.config(text="Hors Ligne.")
