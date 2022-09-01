@@ -1,7 +1,3 @@
-from cgitb import text
-from queue import Empty
-from re import T
-import rlcompleter
 from pytube import *
 from tkinter import *
 import time
